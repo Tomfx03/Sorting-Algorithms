@@ -107,14 +107,11 @@ elif(find==-1):
 i)	#Selection Sort:
 
 ![Screenshot 2024-04-14 132258](https://github.com/Tomfx03/Sorting-Algorithms/assets/101335832/88550395-3328-46df-821a-f2e7b3fc46aa)
-
 ii)	#Insertion Sort:
 
 ![Screenshot 2024-04-14 132308](https://github.com/Tomfx03/Sorting-Algorithms/assets/101335832/4d19b877-7977-4e9e-8307-9b77ceac1ef5)
-
 iii)	#Insertion Sort(recursive Method):
 
 ![Screenshot 2024-04-14 132331](https://github.com/Tomfx03/Sorting-Algorithms/assets/101335832/baf4565e-bbd2-440b-8e0a-7696ed0c1558)
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
