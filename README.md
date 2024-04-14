@@ -34,10 +34,6 @@ else:
     print("Element not found")
 #name:tom francies xaviour.L
 #reg no:212223110600
-
-
-
-
 ```
 ii)	#Insertion Sort
 ```
